@@ -36,5 +36,5 @@ Développer une application web intelligente permettant aux étudiants :
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/TON-PSEUDO-GITHUB/projet-ia-revision.git
+git clone https://github.com/leopoldthibau/Projet-plateforme-r-visions.git
 cd projet-ia-revision
